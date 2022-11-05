@@ -1,1 +1,1 @@
-# f22-Javafx-fxml-lab-A
+Basic "Login" page design using both JavaFX, to initialize the container (Scene) for all the visual elements and to handle events, and JavaFXML, to implement visual elements and overall formatting of the contents within the scene. 
