@@ -1,1 +1,1 @@
-Basic "Login" page design using both JavaFX, to initialize the container (Scene) for all the visual elements and to handle events, and JavaFXML, to implement visual elements and overall formatting of the contents within the scene. 
+Basic "Login" page design using both JavaFX, to initialize the container (Scene) for all the visual elements and to handle events, and JavaFXML, to implement visual elements and overall formatting of the contents within the scene. (I also tried to use CSS but wasn't able to get it working the way I intended it to) 
